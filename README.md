@@ -47,8 +47,8 @@
 |🚩2022년||▲ 휴학 2년차||
 |||군입대... 잃어버린 시간..|
 |🚩2021년||▲ 휴학 1년차||
-|09.18 ~ 11.27|스터디|전공 튜터링|[활동자료](https://mangrove-weather-c34.notion.site/be193b82f0d4441aaff9f4c71d97a2a3)
+|09.18 ~ 11.27|스터디|전공 튜터링|[활동자료](https://minqueue.notion.site/be193b82f0d4441aaff9f4c71d97a2a3)
 |06.07 ~ 11.06|대회|제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - 한국콘텐츠학회장상:'우리아이 안전 걸음맵' 안드로이드 개발|[PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[설명영상](https://youtu.be/dC_U7Kn4P38)<br>[상장사진](https://raw.githubusercontent.com/oMFDOo/oMFDOo/main/image/K%ED%95%B4%EC%BB%A4%ED%86%A4.jpg)<br>[포스터](http://swkorea.org/wp-content/uploads/2017/09/K%ED%95%B4%EC%BB%A4%ED%86%A48%ED%9A%8C-%ED%8F%AC%EC%8A%A4%ED%84%B0500x7400520_%EC%B5%9C%EC%A2%85.jpg)<br>[Repo](https://github.com/tomorrow9913/childrenSafeWalk)
 |🚩2020년||▲ 대학교 2학년||
-|11.22|교육|KISA 아카데미, SW개발보안 기본과정[12차] 수료|[수료증](https://mangrove-weather-c34.notion.site/SW-09347fe7889c409381cd711184ba2546)
+|11.22|교육|KISA 아카데미, SW개발보안 기본과정[12차] 수료|[수료증](https://minqueue.notion.site/SW-09347fe7889c409381cd711184ba2546)
 |🚩2019년||▲ 대학교 1학년||
