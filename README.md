@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Stack 🛠</h3>
 
-![python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) ![cpp](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) ![cpp](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 </div>
 
@@ -53,3 +53,8 @@
 |🚩2020년||▲ 대학교 2학년||
 |11.22|교육|KISA 아카데미, SW개발보안 기본과정[12차] 수료|[수료증](https://minqueue.notion.site/SW-09347fe7889c409381cd711184ba2546)
 |🚩2019년||▲ 대학교 1학년||
+
+---
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->  
