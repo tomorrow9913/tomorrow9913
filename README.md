@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=Hello,%20I'm%20Mingyu&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20and%20Infra%20Engineer&amp;descAlignY=51&amp;descAlign=62" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Mingyu&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Infra%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=25&amp;pause=1000&amp;color=3591F7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+Secure+and+Scalable+Architecture;Expert+in+eBPF,+Kubernetes,+and+Backend;BoB+13th+Best+of+the+Best+Top+30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3591F7&center=true&vCenter=true&width=900&lines=Building+Secure+and+Scalable+Architecture;Expert+in+eBPF,+Kubernetes,+and+Backend;BoB+13th+Best+of+the+Best+Top+30" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -31,6 +31,7 @@
 | Category | Skills |
 | :--- | :--- |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
 | **Infra & Cloud** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 | **System & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![eBPF](https://img.shields.io/badge/eBPF-F69220?style=flat&logo=linux&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
@@ -49,7 +50,27 @@
     * eBPF와 LSM을 활용하여 커널 레벨에서 오버헤드를 최소화한 보안 모니터링 구현
     * MSA 구조 설계를 통해 확장 가능한 보안 솔루션 구축
 
-#### 2. S-Spring (Software Composition Analysis)
+#### 2. Immersion Learner (Chrome Extension)
+> **웹 기반 언어 학습 보조 크롬 확장 프로그램**
+
+* **Role:** Full Stack Dev (Solo)
+* **Tech:** React 19, TypeScript, Vite, Tailwind CSS
+* **Key Features:**
+    * 웹페이지 내 단어/문장 즉시 번역 및 하이라이팅 기능
+    * PDF 리더 내장 및 학습용 플래시카드/퀴즈 자동 생성
+    * 새 탭(New Tab)을 활용한 학습 대시보드 제공
+
+#### 3. FastAPI Boilerplate
+> **프로덕션 환경을 고려한 FastAPI 기반 백엔드 템플릿**
+
+* **Role:** Sole Developer
+* **Tech:** FastAPI, Python, Docker, SQLAlchemy, Alembic
+* **Key Features:**
+    * Docker Compose 기반의 컨테이너 환경 구성 및 GitHub Actions 워크플로우 통합
+    * Clean Architecture를 지향하는 모듈형 구조 설계 (Application, Core, Infra 계층 분리)
+    * 인증(Auth), 관리자 패널, DB 마이그레이션(Alembic) 등 필수 기능 사전 구현
+
+#### 4. S-Spring (Software Composition Analysis)
 > **SBOM 기반 소프트웨어 구성 분석 및 취약점 탐지 도구** > *KITRI WhiteHat School 2기 프로젝트*
 
 * **Role:** Backend Dev & Infra Operations
