@@ -40,7 +40,7 @@
 
 ### 🏆 Featured Projects
 
-#### 1. Yamong (Cloud Workload Protection Platform)
+#### 1. [Yamong (Cloud Workload Protection Platform)](https://github.com/bob-yamong)
 > **eBPF 기반의 컨테이너/VM 실시간 보안 모니터링 솔루션** > *KITRI BoB 13기 우수 프로젝트 선정*
 
 * **Role:** Backend & Blocking Module Dev (Core)
@@ -70,7 +70,7 @@
     * Clean Architecture를 지향하는 모듈형 구조 설계 (Application, Core, Infra 계층 분리)
     * 인증(Auth), 관리자 패널, DB 마이그레이션(Alembic) 등 필수 기능 사전 구현
 
-#### 4. S-Spring (Software Composition Analysis)
+#### 4. [S-Spring (Software Composition Analysis)](https://github.com/WhiteHatSchool)
 > **SBOM 기반 소프트웨어 구성 분석 및 취약점 탐지 도구** > *KITRI WhiteHat School 2기 프로젝트*
 
 * **Role:** Backend Dev & Infra Operations
