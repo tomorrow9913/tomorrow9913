@@ -50,7 +50,7 @@
     * eBPF와 LSM을 활용하여 커널 레벨에서 오버헤드를 최소화한 보안 모니터링 구현
     * MSA 구조 설계를 통해 확장 가능한 보안 솔루션 구축
 
-#### 2. Immersion Learner (Chrome Extension)
+#### 2. [Immersion Learner (Chrome Extension)](https://github.com/tomorrow9913/Immersion-Learner)
 > **웹 기반 언어 학습 보조 크롬 확장 프로그램**
 
 * **Role:** Full Stack Dev (Solo)
@@ -60,7 +60,7 @@
     * PDF 리더 내장 및 학습용 플래시카드/퀴즈 자동 생성
     * 새 탭(New Tab)을 활용한 학습 대시보드 제공
 
-#### 3. FastAPI Boilerplate
+#### 3. [FastAPI Boilerplate](https://github.com/tomorrow9913/FastAPI-Boilerplate)
 > **프로덕션 환경을 고려한 FastAPI 기반 백엔드 템플릿**
 
 * **Role:** Sole Developer
