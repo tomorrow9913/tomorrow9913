@@ -1,60 +1,93 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=tomorrow9913&fontSize=90&animation=fadeIn&fontAlignY=38&desc=정민규&descAlignY=51&descAlign=62)
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=Hello,%20I'm%20Mingyu&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20and%20Infra%20Engineer&amp;descAlignY=51&amp;descAlign=62" width="100%" alt="header" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=25&amp;pause=1000&amp;color=3591F7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+Secure+and+Scalable+Architecture;Expert+in+eBPF,+Kubernetes,+and+Backend;BoB+13th+Best+of+the+Best+Top+30" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftomorrow9913%2Ftomorrow9913&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<h3>🛠 Tech Stack 🛠</h3>
-
-![python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) ![cpp](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
+  <a href="https://hits.sh/github.com/tomorrow9913/tomorrow9913/">
+    <img alt="Hits" src="https://hits.sh/github.com/tomorrow9913/tomorrow9913.svg?style=flat&label=Hits&color=79C83D"/>
+  </a>
+  
 </div>
 
 ---
 
-<div align="left">
+### 🚀 About Me
+> **"보안을 고려한 안정적인 인프라와 백엔드 시스템을 설계합니다."**
 
-### 넓고 얕은 지식을 함께 들여다 보는 개발자
-
-주로 C나 C++, Python을 이용한 개발을 하지만 필요에 따라 다양한 언어를 활용하여 하고 싶은 일들을 만들어 나가고 있습니다.
-
-배움에 대한 열정으로 다양한 분야를 경험해보고 싶습니다.
-
-현재 관심은 보안과 네트워크에 대해서 관심을 가지고 있으며, 디자인 패턴과 네트워크, 리버스 엔지니어링, 도커 등에 대해 공부 하고 있습니다.
-
-</div>
+* 🔭 **Focus:** 클라우드 네이티브 보안(CWPP), 리눅스 커널(eBPF), 고성능 백엔드 아키텍처
+* 🛡️ **Security Engineering:** BoB 13기(보안제품개발) 및 WhiteHat School 2기를 수료하며 보안 위협을 탐지하고 방어하는 기술을 연구했습니다.
+* 🌱 **Open Source:** [ProjectDiscovery/Uncover](https://github.com/projectdiscovery/uncover) 기능 추가 및 [Microsoft Docs](https://github.com/MicrosoftDocs) 수정 등 오픈소스 생태계에 기여합니다.
+* 📝 **Tech Blog:** 배운 내용을 정리하고 공유하는 것을 즐깁니다. ([velog.io/@queue](https://velog.io/@queue))
 
 ---
+
+### 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
+| **Infra & Cloud** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| **System & Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![eBPF](https://img.shields.io/badge/eBPF-F69220?style=flat&logo=linux&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects
+
+#### 1. Yamong (Cloud Workload Protection Platform)
+> **eBPF 기반의 컨테이너/VM 실시간 보안 모니터링 솔루션** > *KITRI BoB 13기 우수 프로젝트 선정*
+
+* **Role:** Backend & Blocking Module Dev (Core)
+* **Tech:** eBPF, LSM(Linux Security Module), Kafka, FastAPI, Kubernetes
+* **Key Achievements:**
+    * 컨테이너 및 VM 내 프로세스 추적, 시스템 콜 분석을 통한 비정상 행위 탐지
+    * eBPF와 LSM을 활용하여 커널 레벨에서 오버헤드를 최소화한 보안 모니터링 구현
+    * MSA 구조 설계를 통해 확장 가능한 보안 솔루션 구축
+
+#### 2. S-Spring (Software Composition Analysis)
+> **SBOM 기반 소프트웨어 구성 분석 및 취약점 탐지 도구** > *KITRI WhiteHat School 2기 프로젝트*
+
+* **Role:** Backend Dev & Infra Operations
+* **Tech:** SBOM, CycloneDX, AWS, Amazon Inspector
+* **Key Achievements:**
+    * 소프트웨어 구성 요소(SBOM) 분석을 통해 취약 라이브러리 식별 자동화
+    * Amazon Inspector와 연동하여 실행 환경(Environment)의 취약점까지 통합 분석
+
+---
+
+### 💼 Work & Experience
+
+* **KITRI BoB (Best of the Best) 13th** | Security Product Development Track (Top 30) | *2024.09 ~ Present*
+* **SamsungG2B Co., Ltd.** | Freelance Developer (Outsourcing) | *2023.01 ~ 2023.06*
+    * 개인정보 비식별화(이미지 모자이크) 로직 개발 및 DB 설계 수행
+* **KITRI WhiteHat School 2nd** | Trainee | *2024.05 ~ 2024.08*
+* **GDSC (Google Developer Student Clubs) DEU** | Core Member | *2022.09 ~ 2024.08*
+
+---
+
+### 🏅 Honors & Awards
+
+* **Best Paper Award** (2024) - Korea Software Congress 2024
+* **Grand Prize** (2023) - Capstone Design Competition
+* **Association President's Award** (2020) - 8th K-Hackathon
+
+---
+
+### 🌱 Open Source Contributions
+
+* **[ProjectDiscovery/Uncover](https://github.com/projectdiscovery/uncover):** Fixed criminalip logic & Added 'BinaryEdge' agent
+* **[MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32):** Corrected parameter documentation
+
+---
+
+<br />
 
 <div align="center">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomorrow9913&count_private=true)](https://github.com/tomorrow9913) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomorrow9913&hide_border=true)](https://github.com/tomorrow9913)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomorrow9913&show_icons=true&theme=radical" height="150" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomorrow9913&layout=compact&theme=radical" height="150" alt="languages" />
 </div>
-
----
-
-<div align="left">
-
-## 📚 저의 활동은요
-
-|기간|종류|활동 내용|비고|
-|:----:|:-----:|:----:|:----:|
-|09.23 ~ |GDSC DEU||
-|01.10 ~ |블로그|TIL(Today I Learned) 시작|[TIL](https://tomorrow9913.github.io/til/)|
-|🚩2022년||▲ 휴학 2년차||
-|||군입대... 잃어버린 시간..|
-|🚩2021년||▲ 휴학 1년차||
-|09.18 ~ 11.27|스터디|전공 튜터링|[활동자료](https://minqueue.notion.site/be193b82f0d4441aaff9f4c71d97a2a3)
-|06.07 ~ 11.06|대회|제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - 한국콘텐츠학회장상:'우리아이 안전 걸음맵' 안드로이드 개발|[PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[설명영상](https://youtu.be/dC_U7Kn4P38)<br>[상장사진](https://raw.githubusercontent.com/oMFDOo/oMFDOo/main/image/K%ED%95%B4%EC%BB%A4%ED%86%A4.jpg)<br>[포스터](http://swkorea.org/wp-content/uploads/2017/09/K%ED%95%B4%EC%BB%A4%ED%86%A48%ED%9A%8C-%ED%8F%AC%EC%8A%A4%ED%84%B0500x7400520_%EC%B5%9C%EC%A2%85.jpg)<br>[Repo](https://github.com/tomorrow9913/childrenSafeWalk)
-|🚩2020년||▲ 대학교 2학년||
-|11.22|교육|KISA 아카데미, SW개발보안 기본과정[12차] 수료|[수료증](https://minqueue.notion.site/SW-09347fe7889c409381cd711184ba2546)
-|🚩2019년||▲ 대학교 1학년||
-
----
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->  
