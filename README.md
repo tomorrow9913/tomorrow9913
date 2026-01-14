@@ -50,7 +50,17 @@
     * eBPF와 LSM을 활용하여 커널 레벨에서 오버헤드를 최소화한 보안 모니터링 구현
     * MSA 구조 설계를 통해 확장 가능한 보안 솔루션 구축
 
-#### 2. [Immersion Learner (Chrome Extension)](https://github.com/tomorrow9913/Immersion-Learner)
+#### 2. [Universal Alert Platform](https://github.com/tomorrow9913/kafka-alert)
+> **Kafka 메시지를 다양한 채널로 동적 라우팅/전송하는 고성능 비동기 알림 시스템**
+
+* **Role:** Sole Developer
+* **Tech:** Python, Kafka(aiokafka), Asyncio, Jinja2, Docker
+* **Key Features:**
+    * **Provider Agnostic:** Discord, Slack, Email 등 다양한 채널로 알림을 유연하게 전송
+    * **Server-Driven UI:** Jinja2 템플릿을 활용하여 클라이언트 변경 없이 메시지 포맷 동적 제어
+    * **High Concurrency:** Asyncio와 Semaphore를 활용한 Non-blocking 아키텍처로 대량의 메시지 처리 보장
+
+#### 3. [Immersion Learner (Chrome Extension)](https://github.com/tomorrow9913/Immersion-Learner)
 > **웹 기반 언어 학습 보조 크롬 확장 프로그램**
 
 * **Role:** Full Stack Dev (Solo)
@@ -60,7 +70,7 @@
     * PDF 리더 내장 및 학습용 플래시카드/퀴즈 자동 생성
     * 새 탭(New Tab)을 활용한 학습 대시보드 제공
 
-#### 3. [FastAPI Boilerplate](https://github.com/tomorrow9913/FastAPI-Boilerplate)
+#### 4. [FastAPI Boilerplate](https://github.com/tomorrow9913/FastAPI-Boilerplate)
 > **프로덕션 환경을 고려한 FastAPI 기반 백엔드 템플릿**
 
 * **Role:** Sole Developer
@@ -70,7 +80,7 @@
     * Clean Architecture를 지향하는 모듈형 구조 설계 (Application, Core, Infra 계층 분리)
     * 인증(Auth), 관리자 패널, DB 마이그레이션(Alembic) 등 필수 기능 사전 구현
 
-#### 4. [S-Spring (Software Composition Analysis)](https://github.com/WhiteHatSchool)
+#### 5. [S-Spring (Software Composition Analysis)](https://github.com/WhiteHatSchool)
 > **SBOM 기반 소프트웨어 구성 분석 및 취약점 탐지 도구** > *KITRI WhiteHat School 2기 프로젝트*
 
 * **Role:** Backend Dev & Infra Operations
